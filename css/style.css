@@ -5,3 +5,18 @@
   display: flex;
   justify-content: space-between;
 }
+.rockwin {
+   display:none
+}
+.rocktie {
+   display:none
+}
+.scissortie {
+   display:none
+}
+.scissorwin {
+   display:none
+}
+.rocklose {
+   display:none
+}
